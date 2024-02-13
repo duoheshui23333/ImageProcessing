@@ -1,0 +1,3 @@
+[submodule "pyNET-pyTorch"]
+	path = pyNET-pyTorch
+	url = https://github.com/aiff22/PyNET-PyTorch.git
