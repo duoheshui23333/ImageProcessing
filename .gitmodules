@@ -1,0 +1,3 @@
+[submodule "pyNET"]
+	path = pyNET
+	url = https://github.com/aiff22/PyNET.git
